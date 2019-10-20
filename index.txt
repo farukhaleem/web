@@ -2,4 +2,6 @@ header section
 
 nav bar
 
+slider 
+
 footer added
